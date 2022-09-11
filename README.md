@@ -1,1 +1,1 @@
-# FeedForward---Network-from-sketch
+# FeedForward-Neural-Network-from-sketch
